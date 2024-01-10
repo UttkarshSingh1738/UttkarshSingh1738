@@ -1,0 +1,1 @@
+INSERT INTO management (id, Name, Email, Type, Username, Password) VALUES (3654, 'Uttkarsh Singh', 'uttkarsh.singh2004@gmail.com', 'Manager', 'Test','QWERTY');
