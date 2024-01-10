@@ -1,0 +1,1173 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.23)  2 DEC 2021 07:39
+entering extended mode
+**./Paper.tex
+(Paper.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count190
+) (C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count191
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count192
+\c@listtotal=\count193
+\c@listcount=\count194
+\c@liststart=\count195
+\c@liststop=\count196
+\c@citecount=\count197
+\c@citetotal=\count198
+\c@multicitecount=\count199
+\c@multicitetotal=\count266
+\c@instcount=\count267
+\c@maxnames=\count268
+\c@minnames=\count269
+\c@maxitems=\count270
+\c@minitems=\count271
+\c@citecounter=\count272
+\c@maxcitecounter=\count273
+\c@savedcitecounter=\count274
+\c@uniquelist=\count275
+\c@uniquename=\count276
+\c@refsection=\count277
+\c@refsegment=\count278
+\c@maxextratitle=\count279
+\c@maxextratitleyear=\count280
+\c@maxextraname=\count281
+\c@maxextradate=\count282
+\c@maxextraalpha=\count283
+\c@abbrvpenalty=\count284
+\c@highnamepenalty=\count285
+\c@lownamepenalty=\count286
+\c@maxparens=\count287
+\c@parenlevel=\count288
+\blx@tempcnta=\count289
+\blx@tempcntb=\count290
+\blx@tempcntc=\count291
+\blx@maxsection=\count292
+\blx@maxsegment@0=\count293
+\blx@notetype=\count294
+\blx@parenlevel@text=\count295
+\blx@parenlevel@foot=\count296
+\blx@sectionciteorder@0=\count297
+\blx@entrysetcounter=\count298
+\blx@biblioinstance=\count299
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count300
+\c@maxcomprange=\count301
+\c@mincompwidth=\count302
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count303
+\c@savedafterword=\count304
+\c@annotator=\count305
+\c@savedannotator=\count306
+\c@author=\count307
+\c@savedauthor=\count308
+\c@bookauthor=\count309
+\c@savedbookauthor=\count310
+\c@commentator=\count311
+\c@savedcommentator=\count312
+\c@editor=\count313
+\c@savededitor=\count314
+\c@editora=\count315
+\c@savededitora=\count316
+\c@editorb=\count317
+\c@savededitorb=\count318
+\c@editorc=\count319
+\c@savededitorc=\count320
+\c@foreword=\count321
+\c@savedforeword=\count322
+\c@holder=\count323
+\c@savedholder=\count324
+\c@introduction=\count325
+\c@savedintroduction=\count326
+\c@namea=\count327
+\c@savednamea=\count328
+\c@nameb=\count329
+\c@savednameb=\count330
+\c@namec=\count331
+\c@savednamec=\count332
+\c@translator=\count333
+\c@savedtranslator=\count334
+\c@shortauthor=\count335
+\c@savedshortauthor=\count336
+\c@shorteditor=\count337
+\c@savedshorteditor=\count338
+\c@labelname=\count339
+\c@savedlabelname=\count340
+\c@institution=\count341
+\c@savedinstitution=\count342
+\c@lista=\count343
+\c@savedlista=\count344
+\c@listb=\count345
+\c@savedlistb=\count346
+\c@listc=\count347
+\c@savedlistc=\count348
+\c@listd=\count349
+\c@savedlistd=\count350
+\c@liste=\count351
+\c@savedliste=\count352
+\c@listf=\count353
+\c@savedlistf=\count354
+\c@location=\count355
+\c@savedlocation=\count356
+\c@organization=\count357
+\c@savedorganization=\count358
+\c@origlocation=\count359
+\c@savedoriglocation=\count360
+\c@origpublisher=\count361
+\c@savedorigpublisher=\count362
+\c@publisher=\count363
+\c@savedpublisher=\count364
+\c@language=\count365
+\c@savedlanguage=\count366
+\c@origlanguage=\count367
+\c@savedoriglanguage=\count368
+\c@pageref=\count369
+\c@savedpageref=\count370
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count371
+\c@textcitetotal=\count372
+\c@textcitemaxnames=\count373
+\c@biburlbigbreakpenalty=\count374
+\c@biburlbreakpenalty=\count375
+\c@biburlnumpenalty=\count376
+\c@biburlucpenalty=\count377
+\c@biburllcpenalty=\count378
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count379
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count380
+\c@bbx:relatedtotal=\count381
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cb
+x
+File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)) (C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count382
+\Gm@cntv=\count383
+\c@Gm@tempcnt=\count384
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks19
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip71
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen149
+))
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen150
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count385
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count386
+\leftroot@=\count387
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count388
+\DOTSCASE@=\count389
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen151
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count390
+\c@MaxMatrixCols=\count391
+\dotsspace@=\muskip21
+\c@parentequation=\count392
+\dspbrk@lvl=\count393
+\tag@help=\toks21
+\row@=\count394
+\column@=\count395
+\maxfields@=\count396
+\andhelp@=\toks22
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
+\@envbody=\toks23
+\multlinegap=\skip72
+\multlinetaggap=\skip73
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen158
+\lightrulewidth=\dimen159
+\cmidrulewidth=\dimen160
+\belowrulesep=\dimen161
+\belowbottomsep=\dimen162
+\aboverulesep=\dimen163
+\abovetopsep=\dimen164
+\cmidrulesep=\dimen165
+\cmidrulekern=\dimen166
+\defaultaddspace=\dimen167
+\@cmidla=\count397
+\@cmidlb=\count398
+\@aboverulesep=\dimen168
+\@belowrulesep=\dimen169
+\@thisruleclass=\count399
+\@lastruleclass=\count400
+\@thisrulewidth=\dimen170
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/06/02 3.60 The Babel package
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/06/02 3.60 Babel common definitions
+\babel@savecnt=\count401
+\U@D=\dimen171
+\l@unhyphenated=\language80
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count402
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 1173.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/babel\nil.ldf
+Language: nil 2021/06/02 3.60 Nil language
+\l@nil=\language81
+))
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/sttools\cuted.sty
+Package: cuted 2012/10/04 v1.5 Mixing onecolumn and twocolumn modes
+\At@ViperColsBreak=\toks25
+\v@aaa=\box52
+\v@ccc=\box53
+\lastskip@a=\skip74
+\lastskip@b=\skip75
+\lastskip@d=\skip76
+\lastbox@a=\box54
+\stripsep=\skip77
+\@viper=\box55
+\viper@penalty=\count403
+\hold@viper=\box56
+\ht@viper=\dimen172
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count404
+\c@Blindtext=\count405
+\c@blind@countparstart=\count406
+\blind@countxx=\count407
+\blindtext@numBlindtext=\count408
+\blind@countyy=\count409
+\c@blindlist=\count410
+\c@blindlistlevel=\count411
+\c@blindlist@level=\count412
+\blind@listitem=\count413
+\c@blind@listcount=\count414
+\c@blind@levelcount=\count415
+\blind@mathformula=\count416
+\blind@Mathformula=\count417
+\c@blind@randomcount=\count418
+\c@blind@randommax=\count419
+\c@blind@pangramcount=\count420
+\c@blind@pangrammax=\count421
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count422
+
+
+Package multicol Warning: May not work with the twocolumn option on input line 
+141.
+
+\mult@box=\box57
+\multicol@leftmargin=\dimen173
+\c@unbalance=\count423
+\c@collectmore=\count424
+\doublecol@number=\count425
+\multicoltolerance=\count426
+\multicolpretolerance=\count427
+\full@width=\dimen174
+\page@free=\dimen175
+\premulticols=\dimen176
+\postmulticols=\dimen177
+\multicolsep=\skip78
+\multicolbaselineskip=\skip79
+\partial@page=\box58
+\last@line=\box59
+\maxbalancingoverflow=\dimen178
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@gfirstbox=\box62
+\mult@firstbox=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\c@minrows=\count428
+\c@columnbadness=\count429
+\c@finalcolumnbadness=\count430
+\last@try=\dimen179
+\multicolovershoot=\dimen180
+\multicolundershoot=\dimen181
+\mult@nat@firstbox=\box101
+\colbreak@box=\box102
+\mc@col@check@num=\count431
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count432
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box103
+)
+\tc@llx=\dimen182
+\tc@lly=\dimen183
+\tc@urx=\dimen184
+\tc@ury=\dimen185
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen186
+\adjbox@Height=\dimen187
+\adjbox@Depth=\dimen188
+\adjbox@Totalheight=\dimen189
+\adjbox@pwidth=\dimen190
+\adjbox@pheight=\dimen191
+\adjbox@pdepth=\dimen192
+\adjbox@ptotalheight=\dimen193
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count433
+) (C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box104
+\sift@deathcycles=\count434
+\@vwid@loff=\dimen194
+\@vwid@roff=\dimen195
+)) (C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen196
+\captionmargin@=\dimen197
+\captionwidth=\dimen198
+\caption@tempdima=\dimen199
+\caption@indent=\dimen256
+\caption@parindent=\dimen257
+\caption@hangindent=\dimen258
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count435
+\c@continuedfloat=\count436
+)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (483.69684pt) is ignored.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-06-01 L3 programming layer (loader) 
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count437
+\l__pdf_internal_box=\box105
+))
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2021-06-01 L3 Experimental document command parser
+)
+Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
+File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count438
+\@quotereset=\count439
+(Paper.aux
+
+LaTeX Warning: Label `Bonney, R., et al' multiply defined.
+
+)
+\openout1 = `Paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+Package biblatex Info: Trying to load language 'nil'...
+Package biblatex Info: ... file 'nil.lbx' not found.
+
+
+Package biblatex Warning: Language 'nil' not supported.
+(biblatex)                Using dummy definitions on input line 53.
+
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-06-01 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `Paper.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Paper.bbl' found.
+ (Paper.bbl)
+Package biblatex Info: Reference section=0 on input line 53.
+Package biblatex Info: Reference segment=0 on input line 53.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count440
+\scratchdimen=\dimen259
+\scratchbox=\box106
+\nofMPsegments=\count441
+\nofMParguments=\count442
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count443
+\MPscratchDim=\dimen260
+\MPnumerator=\count444
+\makeMPintoPDFobject=\count445
+\everyMPtoPDFconversion=\toks29
+)
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 731.23582pt, 85.35828pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=731.23582pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+4.
+(C:\Users\uttka\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Underfull \hbox (badness 2293) in paragraph at lines 57--58
+\T1/cmr/m/n/10 regard to the resources they utilize. Thus, a
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 57--58
+\T1/cmr/m/n/10 public investments. It would allow researchers
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 57--58
+\T1/cmr/m/n/10 at a final ensemble model consisting of Named
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 59--63
+\T1/cmr/bx/n/10 Keywords \T1/cmr/m/n/10 NER, Named entity recognition, Dataset
+ []
+
+<Dataset Referenced.png, id=1, 451.6875pt x 158.54231pt>
+File: Dataset Referenced.png Graphic file (type png)
+<use Dataset Referenced.png>
+Package pdftex.def Info: Dataset Referenced.png  used on input line 75.
+(pdftex.def)             Requested size: 271.01459pt x 95.12611pt.
+
+Package caption Warning: \captionsetup{type*=...} or \captionof
+(caption)                outside box or environment on input line 77.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 79--79
+\T1/cmr/m/n/10 As seen above, datasets and information centres are
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 81--81
+\T1/cmr/m/n/10 co-reference information extraction based on conditional
+ []
+
+[1{C:/Users/uttka/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+ <./Dataset Referenced.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]\T1/cmr/bx/n/12 SpaCy's Rule-based Information
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 90--90
+\T1/cmr/m/n/10 information from unstructured data. After intensive
+ []
+
+<Dataset Referenced Sentence Structure.png, id=15, 400.19513pt x 123.76237pt>
+File: Dataset Referenced Sentence Structure.png Graphic file (type png)
+<use Dataset Referenced Sentence Structure.png>
+Package pdftex.def Info: Dataset Referenced Sentence Structure.png  used on inp
+ut line 94.
+(pdftex.def)             Requested size: 240.11893pt x 74.258pt.
+<Dataset Referenced Pattern Structure.png, id=16, 402.45357pt x 241.65282pt>
+File: Dataset Referenced Pattern Structure.png Graphic file (type png)
+<use Dataset Referenced Pattern Structure.png>
+Package pdftex.def Info: Dataset Referenced Pattern Structure.png  used on inpu
+t line 102.
+(pdftex.def)             Requested size: 241.474pt x 144.9928pt.
+
+Underfull \hbox (badness 1264) in paragraph at lines 111--111
+\T1/cmr/m/n/10 as words and text are represented as multidimensional
+ []
+
+<Doc2Vec.jpeg, id=18, 573.19144pt x 298.11375pt>
+File: Doc2Vec.jpeg Graphic file (type jpg)
+<use Doc2Vec.jpeg>
+Package pdftex.def Info: Doc2Vec.jpeg  used on input line 114.
+(pdftex.def)             Requested size: 286.59502pt x 149.0565pt.
+
+Overfull \hbox (12.13458pt too wide) in paragraph at lines 113--115
+ |  [] 
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 118--118
+\T1/cmr/m/n/10 a result, when the word vectors W are trained, the
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 120--120
+[]\T1/cmr/m/n/10 This approach is known as the Distributed Memory
+ []
+
+<Doc2Vec.png, id=19, 658.56038pt x 688.82344pt>
+File: Doc2Vec.png Graphic file (type png)
+<use Doc2Vec.png>
+Package pdftex.def Info: Doc2Vec.png  used on input line 126.
+(pdftex.def)             Requested size: 263.41948pt x 275.52449pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./Dataset Referenced Sentence Structure.png> <./Dataset Referenced Pattern
+ Structure.png> <./Doc2Vec.jpeg>]
+Underfull \hbox (badness 6658) in paragraph at lines 130--130
+\T1/cmr/m/n/10 A survey of multiple conventional machine learning
+ []
+
+<SpaCy NER.png, id=26, 780.9175pt x 340.27126pt>
+File: SpaCy NER.png Graphic file (type png)
+<use SpaCy NER.png>
+Package pdftex.def Info: SpaCy NER.png  used on input line 141.
+(pdftex.def)             Requested size: 288.93495pt x 125.89839pt.
+
+Overfull \hbox (20.16498pt too wide) in paragraph at lines 140--142
+ |  [] 
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 147--147
+[]\T1/cmr/m/n/10 The spaCy model functions like other deep learning
+ []
+
+<SpaCy NER flow.png, id=27, 435.87843pt x 175.70644pt>
+File: SpaCy NER flow.png Graphic file (type png)
+<use SpaCy NER flow.png>
+Package pdftex.def Info: SpaCy NER flow.png  used on input line 151.
+(pdftex.def)             Requested size: 261.52907pt x 105.42467pt.
+[3 <./Doc2Vec.png> <./SpaCy NER.png> <./SpaCy NER flow.png>]
+Underfull \hbox (badness 1028) in paragraph at lines 164--164
+\T1/cmr/m/n/10 Usually, in tasks like sequence classification, the entire
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 164--164
+\T1/cmr/m/n/10 sequence is classified to belong to 1 or 0 for binary
+ []
+
+<BERT.jpeg, id=35, 558.58687pt x 319.1925pt>
+File: BERT.jpeg Graphic file (type jpg)
+<use BERT.jpeg>
+Package pdftex.def Info: BERT.jpeg  used on input line 168.
+(pdftex.def)             Requested size: 270.9143pt x 154.80817pt.
+
+Overfull \hbox (2.14433pt too wide) in paragraph at lines 167--169
+ |  [] 
+ []
+
+<tokenizer.jpeg, id=36, 784.9325pt x 583.17876pt>
+File: tokenizer.jpeg Graphic file (type jpg)
+<use tokenizer.jpeg>
+Package pdftex.def Info: tokenizer.jpeg  used on input line 175.
+(pdftex.def)             Requested size: 235.48155pt x 174.95497pt.
+
+Underfull \hbox (badness 5475) in paragraph at lines 183--183
+[]\T1/cmr/bx/n/10 Label: \T1/cmr/m/it/10 "genomewide association studies", "bal
+timore
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 185--185
+[]\T1/cmr/bx/n/10 Portion to label: \T1/cmr/m/it/10 "control samples were selec
+ted
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 185--185
+\T1/cmr/m/it/10 from individuals who had participated in \T1/cmr/bx/it/10 genom
+ewide
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 188--188
+\T1/cmr/m/it/10 'who', 'had', 'participated', 'in', 'genome', '##wide',
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 188--188
+\T1/cmr/m/it/10 '##etic', '##s', 'collection', 'at', 'the', 'co', '##rie',
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 206--207
+\T1/cmr/m/n/10 A Transformers based deep learning model capable of
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 208--209
+[]\T1/cmr/m/n/10 Masked language modelling is an example of auto-
+ []
+
+<MLM.png, id=37, 1176.395pt x 1133.23375pt>
+File: MLM.png Graphic file (type png)
+<use MLM.png>
+Package pdftex.def Info: MLM.png  used on input line 212.
+(pdftex.def)             Requested size: 282.34058pt x 271.98166pt.
+
+Overfull \hbox (3.61197pt too wide) in paragraph at lines 211--213
+ |  [] 
+ []
+
+[4 <./BERT.jpeg> <./tokenizer.jpeg>]
+Underfull \hbox (badness 3557) in paragraph at lines 234--234
+\T1/cmr/m/n/10 Ensemble techniques are a type of machine learning
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 234--234
+\T1/cmr/m/n/10 allows the production of better predictive performance
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 240--241
+\T1/cmr/m/n/10 more consistent and accurate predictions leading to an
+ []
+
+<ensemble.jpeg, id=41, 377.61075pt x 576.80493pt>
+File: ensemble.jpeg Graphic file (type jpg)
+<use ensemble.jpeg>
+Package pdftex.def Info: ensemble.jpeg  used on input line 243.
+(pdftex.def)             Requested size: 226.56819pt x 346.08562pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./MLM.png> <./ensemble.jpeg>]
+Underfull \hbox (badness 2961) in paragraph at lines 269--270
+[]\T1/cmr/m/n/10 Thus, even for a relatively unexplored area such as
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 273--274
+\T1/cmr/m/n/10 prediction algorithm achieved a better performance by
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 275--276
+[]\T1/cmr/m/n/10 Similar to Youngjun Kim and Stéphane M Meystre's
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 284--285
+\T1/cmr/m/n/10 Research Papers Based on Statistical Methods. In:
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 290--291
+[]\T1/cmr/m/n/10 JSVSH Priyanka et al. Information Tracking from
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 293--294
+[]\T1/cmr/m/n/10 HH Yang. Hierarchical Classification Methods of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+\T1/cmr/m/n/10 Chinese Scientific Papers Based on Extracting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+\T1/cmr/m/n/10 Key Words. In: Applied Mechanics and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+\T1/cmr/m/n/10 Materials 40 (2010), pp. 10061011. doi:
+ []
+
+[6]
+Underfull \hbox (badness 4072) in paragraph at lines 296--297
+[]\T1/cmr/m/n/10 K Adnan and R Akbar.An analytical study of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+\T1/cmr/m/n/10 information extraction from unstructured and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+[]\T1/cmr/m/n/10 Fortunato, S., et al.: Science of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\T1/cmr/m/n/10 science. Science 359(6379) (2018).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\T1/cmr/m/n/10 https://doi.org/10.1126/science.aao0185,
+ []
+
+
+Overfull \hbox (15.10378pt too wide) in paragraph at lines 302--303
+\T1/cmr/m/n/10 https://science.sciencemag.org/content/359/6379/eaao0185 
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 314--315
+\T1/cmr/m/n/10 and Mortars: Properties and Process Technology.
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 317--318
+[]\T1/cmr/m/n/10 Kaggle. Competition: coleridgeinitiative-show-us-the-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+[]\T1/cmr/m/n/10 le2014distributed, Distributed Representations of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--327
+\T1/cmr/m/n/10 Confused Coders. https://confusedcoders.com/data-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--327
+\T1/cmr/m/n/10 science/deep-learning/how-to-create-custom-ner-in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+[]\T1/cmr/m/n/10 Nasar, Z., Jaffry, S.W. & Malik, M.K.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+\T1/cmr/m/n/10 Information extraction from scientific articles:
+ []
+
+
+Underfull \hbox (badness 7291) in paragraph at lines 329--330
+\T1/cmr/m/n/10 a survey. Scientometrics 117, 19311990 (2018).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\T1/cmr/m/n/10 for named entity recognition with conditional
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 332--333
+\T1/cmr/m/n/10 random fields, feature induction and web-enhanced
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 332--333
+\T1/cmr/m/n/10 lexicons. In Proceedings of the seventh conference
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\T1/cmr/m/n/10 on Natural language learning at HLT-NAACL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\T1/cmr/m/n/10 2003 - Volume 4 (CONLL '03). Association
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\T1/cmr/m/n/10 for Computational Linguistics, USA, 188191.
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 335--336
+\T1/cmr/m/n/10 method-based extraction of medication and related
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 338--339
+[]\T1/cmr/m/n/10 Khabsa, Madian and C. Lee Giles. An Ensemble
+ []
+
+[7] (Paper.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package logreq Info: Writing requests to 'Paper.run.xml'.
+\openout1 = `Paper.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 13394 strings out of 478864
+ 241539 string characters out of 2848660
+ 1070807 words of memory out of 3000000
+ 31129 multiletter control sequences out of 15000+600000
+ 417037 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,8n,117p,1242b,1131s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\uttka\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk> <C:\Users\uttka\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecti1000.pk> <C:\Users\uttka\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbi1000.pk> <C:\Users\uttka\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1200.pk> <C:\Users\uttka\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\uttka\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\uttka\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\uttka\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\uttka\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\uttka\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\uttka\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\
+uttka\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk>
+Output written on Paper.pdf (7 pages, 712618 bytes).
+PDF statistics:
+ 460 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
