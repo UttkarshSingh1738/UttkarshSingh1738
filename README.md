@@ -16,5 +16,5 @@ Web Developer, Software Engineer, Student.
 
 ## Traffic Management with OpenCV
 
-[![Project Demonstartion](https://img.youtube.com/vi/s3qkk-qW3xY/0.jpg)](https://www.youtube.com/watch?v=s3qkk-qW3xY)
-[![Project Demonstartion](https://img.youtube.com/vi/xpj3xTfFrpE/0.jpg)](https://www.youtube.com/watch?v=xpj3xTfFrpE)
+[![Project Demonstartion](https://img.youtube.com/vi/s3qkk-qW3xY/1.jpg)](https://www.youtube.com/watch?v=s3qkk-qW3xY)
+[![Project Demonstartion](https://img.youtube.com/vi/xpj3xTfFrpE/1.jpg)](https://www.youtube.com/watch?v=xpj3xTfFrpE)
