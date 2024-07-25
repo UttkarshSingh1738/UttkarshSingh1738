@@ -1,6 +1,0 @@
-ICAART - B - N/A
-ICRA   -B - 4.6
-AAAI - A* - 5
-IEEE Internation Conference on Big Data - B - N/A
-ICMLA - C - 2.3
-IJCNLP - B - N/A
