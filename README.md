@@ -24,7 +24,7 @@ Software & Web Developer, AI/ML Engineer, Researcher, Video Game Designer, Stude
 
 ## 🎓 Certifications  
 
-- **AWS Certified AI Practitioner** – *Earned September 2028*  
+- **AWS Certified AI Practitioner** – *September 2028*  
 - **Salesforce Certified Agentforce Specialist**  
 - **IBM AI Engineering Professional Certificate (Coursera)**  
 - *Currently preparing for the next-level **AWS Associate Certification** to deepen cloud expertise*  
