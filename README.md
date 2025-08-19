@@ -22,6 +22,13 @@ Software & Web Developer, AI/ML Engineer, Researcher, Video Game Designer, Stude
 - **Dubai Police Innovation** – Submitted an analytical publication paper to the Dubai Government on the use of traffic cameras in conjunction with computer vision to reduce road accidents involving food delivery bikers.
 - **Kaggle Code Competition** – Achieved 3 bronze medals and 2 silver medals for submissions to the Coleridge Initiative’s Kaggle Code Competition, with an overall cash prize of $90,000.
 
+## 🎓 Certifications  
+
+- **AWS Certified AI Practitioner** – *Earned September 2028*  
+- **Salesforce Certified Agentforce Specialist**  
+- **IBM AI Engineering Professional Certificate (Coursera)**  
+- *Currently preparing for the next-level **AWS Associate Certification** to deepen cloud expertise*  
+
 ## 🌟 Interests
 
 - ⚽ Football  🏊 Swimming  🚵 Mountain Biking  🔴 Liverpool F.C.  🍗 Kentucky Fried Chicken  🌯 Shawarma  🐱 Cats
